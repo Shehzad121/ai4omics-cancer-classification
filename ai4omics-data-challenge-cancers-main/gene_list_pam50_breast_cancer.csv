@@ -1,0 +1,51 @@
+﻿gene_symbol;title;location;chrom;type
+NAT1;N-acetyltransferase 1;8p22;8;protein-coding
+BIRC5;baculoviral IAP repeat containing 5;17q25.3;17;protein-coding
+BAG1;BAG cochaperone 1;9p13.3;9;protein-coding
+BCL2;BCL2 apoptosis regulator;18q21.33;18;protein-coding
+BLVRA;biliverdin reductase A;7p13;7;protein-coding
+CCNB1;cyclin B1;5q13.2;5;protein-coding
+CCNE1;cyclin E1;19q12;19;protein-coding
+CDC6;cell division cycle 6;17q21.2;17;protein-coding
+CDC20;cell division cycle 20;1p34.2;1;protein-coding
+CDH3;cadherin 3;16q22.1;16;protein-coding
+CENPF;centromere protein F;1q41;1;protein-coding
+EGFR;epidermal growth factor receptor;7p11.2;7;protein-coding
+ERBB2;erb-b2 receptor tyrosine kinase 2;17q12;17;protein-coding
+ESR1;estrogen receptor 1;6q25.1-q25.2;6;protein-coding
+FGFR4;fibroblast growth factor receptor 4;5q35.2;5;protein-coding
+FOXC1;forkhead box C1;6p25.3;6;protein-coding
+GRB7;growth factor receptor bound protein 7;17q12;17;protein-coding
+FOXA1;forkhead box A1;14q21.1;14;protein-coding
+KRT5;keratin 5;12q13.13;12;protein-coding
+KRT14;keratin 14;17q21.2;17;protein-coding
+KRT17;keratin 17;17q21.2;17;protein-coding
+MAPT;microtubule associated protein tau;17q21.31;17;protein-coding
+MDM2;MDM2 proto-oncogene;12q15;12;protein-coding
+MKI67;marker of proliferation Ki-67;10q26.2;10;protein-coding
+MMP11;matrix metallopeptidase 11;22q11.23;22;protein-coding
+MYBL2;MYB proto-oncogene like 2;20q13.12;20;protein-coding
+MYC;MYC proto-oncogene, bHLH transcription factor;8q24.21;8;protein-coding
+PGR;progesterone receptor;11q22.1;11;protein-coding
+RRM2;ribonucleotide reductase regulatory subunit M2;2p25.1;2;protein-coding
+SFRP1;secreted frizzled related protein 1;8p11.21;8;protein-coding
+TYMS;thymidylate synthetase;18p11.32;18;protein-coding
+MIA;MIA SH3 domain containing;19q13.2;19;protein-coding
+EXO1;exonuclease 1;1q43;1;protein-coding
+PTTG1;PTTG1 regulator of sister chromatid separation, securin;5q33.3;5;protein-coding
+MELK;maternal embryonic leucine zipper kinase;9p13.2;9;protein-coding
+NDC80;NDC80 kinetochore complex component;18p11.32;18;protein-coding
+KIF2C;kinesin family member 2C;1p34.1;1;protein-coding
+UBE2C;ubiquitin conjugating enzyme E2 C;20q13.12;20;protein-coding
+ORC6;origin recognition complex subunit 6;16q11.2;16;protein-coding
+SLC39A6;solute carrier family 39 member 6;18q12.2;18;protein-coding
+PHGDH;phosphoglycerate dehydrogenase;1p12;1;protein-coding
+GPR160;G protein-coupled receptor 160;3q26.2;3;protein-coding
+UBE2T;ubiquitin conjugating enzyme E2 T;1q32.1;1;protein-coding
+CXXC5;CXXC finger protein 5;5q31.2;5;protein-coding
+ANLN;anillin, actin binding protein;7p14.2;7;protein-coding
+CEP55;centrosomal protein 55;10q23.33;10;protein-coding
+ACTR3B;actin related protein 3B;7q36.1-q36.2;7;protein-coding
+MLPH;melanophilin;2q37.3;2;protein-coding
+NUF2;NUF2 component of NDC80 kinetochore complex;1q23.3;1;protein-coding
+TMEM45B;transmembrane protein 45B;11q24.3;11;protein-coding
